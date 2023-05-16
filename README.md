@@ -4,9 +4,9 @@ We developed Logpresso Deployer to manage infrastructure as code, like container
 
 ## Download
 
-* Logpresso Deployer 1.0.2205.0 (Windows x64)
-* Logpresso Deployer 1.0.2205.0 (Linux x64)
-* Logpresso Deployer 1.0.2205.0 (Any OS)
+* [Logpresso Deployer 1.0.2205.0 (Windows x64)](https://github.com/logpresso/deployer/releases/download/1.0.2305.0/logpresso-deployer-1.0.2205.0.zip)
+* [Logpresso Deployer 1.0.2205.0 (Linux x64)](https://github.com/logpresso/deployer/releases/download/1.0.2305.0/logpresso-deployer-1.0.2305.0.tar.gz)
+* [Logpresso Deployer 1.0.2205.0 (Any OS)](https://github.com/logpresso/deployer/releases/download/1.0.2305.0/logpresso-deployer-1.0.2205.0.jar)
 
 ## Usage
 
