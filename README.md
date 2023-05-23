@@ -4,9 +4,9 @@ We developed Logpresso Deployer to manage infrastructure as code, like container
 
 ## Download
 
-* [Logpresso Deployer 1.0.2205.0 (Windows x64)](https://github.com/logpresso/deployer/releases/download/1.0.2305.0/logpresso-deployer-1.0.2205.0.zip)
-* [Logpresso Deployer 1.0.2205.0 (Linux x64)](https://github.com/logpresso/deployer/releases/download/1.0.2305.0/logpresso-deployer-1.0.2305.0.tar.gz)
-* [Logpresso Deployer 1.0.2205.0 (Any OS)](https://github.com/logpresso/deployer/releases/download/1.0.2305.0/logpresso-deployer-1.0.2205.0.jar)
+* [Logpresso Deployer 1.0.2305.0 (Windows x64)](https://github.com/logpresso/deployer/releases/download/1.0.2305.0/logpresso-deployer-1.0.2305.0.zip)
+* [Logpresso Deployer 1.0.2305.0 (Linux x64)](https://github.com/logpresso/deployer/releases/download/1.0.2305.0/logpresso-deployer-1.0.2305.0.tar.gz)
+* [Logpresso Deployer 1.0.2305.0 (Any OS)](https://github.com/logpresso/deployer/releases/download/1.0.2305.0/logpresso-deployer-1.0.2305.0.jar)
 
 ## Usage
 
@@ -196,7 +196,7 @@ logpresso --password SSH_PASSWORD --cmd logpresso.createJdbcProfile sonar --expe
 #### install
 
 ```
-install --url URL --locale en --company_name COMPANY --user_name USER_NAME --login_name LOGIN_NAME --password PASSWORD --email EMAIL --web_endpoint WEB_ENDPOINT --db_host DB_HOST --db_port 3306 --db_user sonar --db_user sonar --db_password DB_PASSWORD --timeout 120
+install --url URL --locale en --company_name COMPANY --user_name USER_NAME --login_name LOGIN_NAME --password PASSWORD --email EMAIL --web_endpoint WEB_ENDPOINT --db_host DB_HOST --db_port 3306 --db_name sonar --db_user sonar --db_password DB_PASSWORD --timeout 120
 ```
 
 Run the web installer of Logpresso Sonar remotely.
