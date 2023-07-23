@@ -145,11 +145,11 @@ set-config --template TEMPLATE_PATH --output OUTPUT_PATH --java_home JAVA_HOME -
 - Reads the server's configuration template file, changes the configuration values, and writes them to the output location on the specified server.
 - (Required) template: config.def.sh template file path
 - (Required) output: config.sh file path
-- (required) java_home: JDK path. JAVA_HOME entry in config.sh
-- (optional) xms: Minimum heap size. MIN_HEAP_SIZE entry in config.sh
-- (optional) xmx: Maximum heap size. MAX_HEAP_SIZE entry in config.sh
+- (Required) java_home: JDK path. JAVA_HOME entry in config.sh
+- (Optional) xms: Minimum heap size. MIN_HEAP_SIZE entry in config.sh
+- (Optional) xmx: Maximum heap size. MAX_HEAP_SIZE entry in config.sh
 - (Optional) dmem: Direct memory size. MAX_DIRECT_MEM_SIZE entry in config.sh
-- (optional) data_dir: Data directory path. DATADIR entry in config.sh
+- (Optional) data_dir: Data directory path. DATADIR entry in config.sh
 
 #### wait-http
 
